@@ -9,6 +9,7 @@ var angle = 0;
 var maxAngle = 360;
 var speed;
 
+var showPendulum = false;
 var showPendulumPath = true;
 
 function setup() {
